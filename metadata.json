@@ -1,0 +1,6 @@
+{
+  "name": "Bonsai AI Sandbox",
+  "description": "A local-first GGUF chatbot and artifact playground. Select local LLM models (like Ternary-Bonsai-8B), parse GGUF headers, and run interactive games, dashboards, and applets offline or via a hybrid API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
